@@ -28,7 +28,7 @@ pip install numpy opencv-python pillow tensorflow keras flask argparse pytessera
 - Successfully extracted and processed text from diverse image sources.
 - Demonstrated robustness in document digitization and automated text recognition tasks.
 
-##Project Associates
+## Project Associates
 1. Umme Ayman Khan
 2. T M Greeshma
 3. Vaishnavi Shavi
